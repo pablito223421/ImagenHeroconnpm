@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "devDependencies": {
     "typescript": "^4.5.4"
-  }
-  "scripts":{
-      "tsc":"tsc"
+  },
+  "scripts": {
+    "tsc": "tsc"
   }
 }
