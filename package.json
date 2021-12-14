@@ -6,5 +6,9 @@
   },
   "scripts": {
     "tsc": "tsc"
-  }
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "main": "lib/index.js"
 }
